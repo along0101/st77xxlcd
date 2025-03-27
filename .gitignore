@@ -1,5 +1,7 @@
 .vscode
 .idea
-*_cache
-*_backup
+*-cache
+*-backups
+# *.lck
+~*
 
