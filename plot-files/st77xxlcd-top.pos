@@ -1,0 +1,9 @@
+### Footprint positions - created on 2025-03-28T10:45:10+0800 ###
+### Printed by KiCad version 9.0.0-1.fc41
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                     Package                                                 PosX       PosY       Rot  Side
+J1        Conn_01x40_MountingPin  Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal    59.5500    42.1000   90.0000  top
+J2        Conn_01x06_MountingPin  Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal     43.9750    55.4100   90.0000  top
+J3        Conn_01x24_MountingPin  Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal    63.9750    15.1000   90.0000  top
+## End
